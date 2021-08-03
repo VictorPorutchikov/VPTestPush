@@ -1,5 +1,5 @@
 //
-//  Bird_1.cpp
+//  Bird.cpp
 //  FlappingBird
 //
 //  Created by C0deH4cker on 1/30/14.
