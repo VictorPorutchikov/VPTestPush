@@ -1,12 +1,12 @@
 //
-//  Bird_3.cpp
+//  Bird_4.cpp
 //  FlappingBird
 //
 //  Created by C0deH4cker on 1/30/14.
 //  Copyright (c) 2014 C0deH4cker. All rights reserved.
 //
 
-#include "Bird.h"
+#include "Bird_1.h"
 #include <sge.h>
 #include <helpers.h>
 #include "FlappingBird.h"
